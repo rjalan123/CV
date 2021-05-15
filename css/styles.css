@@ -1,0 +1,36 @@
+hr {
+    background-color:#e1f1dd; ;
+    border-bottom-style: dotted;
+    border-left-style: none;
+    border-right-style: none;
+    border-top-style: none;
+    width:5%;
+    border-width: 5px;
+    border-bottom-color:#e1e5ea;
+}
+body{background-color: #e1f1dd;}
+h1 {
+  color: #5eaaa8;
+  text-shadow: 1px 1px;
+
+}
+h2 {
+  color: #5eaaa8;
+
+
+}
+h3 {
+  color: #5eaaa8;
+
+}
+.broccoli{
+  background-color:#e2bcb7 ;
+}
+.apple{
+  background-color: #ca8a8b;
+
+}
+.picture{
+  border-radius: 35%;
+}
+img:hover{background-color: pink;}
